@@ -20,14 +20,14 @@ I'm a developer for <a href='https://humandataincome.com/'>HUDI</a> and a master
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/swift/swift.svg" alt="swift" height="42px"/>
 <img align="" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" alt="Typescirpt"/>
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/>
-<img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/>
+ <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/>
+<img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/>
 <img align="" src="icons/matlab.svg" height="42px"/>
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="c" height="42px"/>
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/>
 <img align="" src="icons/gitkraken.svg" height="40px"/>
 <img align="" src="icons/jetbrains.svg" height="40px"/>
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/>
-<img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/graphql/graphql.svg" alt="graphql" height='42px'/>
 </div>
 <br> <br>
 
