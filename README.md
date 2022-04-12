@@ -1,8 +1,7 @@
 ## Hi, I'm Francesco! 
 
-
-<a style="margin-right: 15px;" href='https://www.linkedin.com/in/francescodangelo95'> <img align="top" src="icons/linkedin.svg" height="20px"/></a>
-<a href='https://twitter.com/leobartowski95'> <img align="top" src="icons/twitter.svg" height="20px"/></a>
+<a href='https://www.linkedin.com/in/francescodangelo95'> <img align="left" src="icons/linkedin.svg" height="20px"/></a>
+<a href='https://twitter.com/leobartowski95'> <img align="left" src="icons/twitter.svg" height="20px"/></a>
 
 <br> <br>
 I'm a developer for <a href='https://humandataincome.com/'>HUDI</a> and a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'>Vanvitelli</a>
