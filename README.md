@@ -1,7 +1,7 @@
-## Hi, I'm Francesco! <a href='https://www.linkedin.com/in/francescodangelo95'> <img src="icons/linkedin.svg" height="20px"/></a>
+## Hi, I'm Francesco! <a href='https://www.linkedin.com/in/francescodangelo95'> <img align="center" src="icons/linkedin.svg" height="20px"/></a>
 
 <br>
-I'm a developer for <a href='https://humandataincome.com/'> <img src="icons/hudi.png" height="20px"/></a> and a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'> <img src="icons/unicampania.png" height="20px"/> </a>
+I'm a developer for <a href='https://humandataincome.com/'> <img align="center" src="icons/hudi.png" height="15px"/></a> and a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'> <img align="center" src="icons/unicampania.png" height="15px"/> </a>
 <br>
 I don't have a lot of open source project yet, but I'm working to change that!
 
