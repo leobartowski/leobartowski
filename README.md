@@ -1,6 +1,6 @@
 <div width="100%" align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=2C8675&center=true&vCenter=true&lines=Hi%2C+I'm+Francesco!;Welcome+to+my+GitHub+Profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=E9392B&center=true&vCenter=true&lines=Hi%2C+I'm+Francesco!;Welcome+to+my+GitHub+Profile!">
 </h1>
 
 <a href='https://www.linkedin.com/in/francescodangelo95'> <img align="center" src="icons/linkedin.svg" height="20px"/></a>
