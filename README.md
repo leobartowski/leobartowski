@@ -2,13 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=E9392B&center=true&vCenter=true&lines=Hi%2C+I'm+Francesco!;Welcome+to+my+GitHub+Profile!">
 </h1>
-
-<a href='https://www.linkedin.com/in/francescodangelo95'> <img align="center" src="icons/linkedin.svg" height="20px"/></a>
-<a href='https://twitter.com/leobartowski95'> <img align="center" src="icons/twitter.svg" height="20px"/></a>
+<a href='https://www.linkedin.com/in/francescodangelo95'> <img align="center" src="icons/linkedin.svg" height="25px"/></a>
 </div>
-<br><br>
+<br>
 <div width="100%" align="center">
-I'm a Frontend Software Engineer for <a href='https://humandataincome.com/'>HUDI</a>, a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'>Vanvitelli</a> and an <a href='https://www.developeracademy.unina.it'>Apple Developer Academy</a> Graduated!
+I'm a Frontend Software Engineer for <a href='https://humandataincome.com/'>HUDI</a>, a MS Degree Computer Engineering student at <a href='https://www.unicampania.it'>Vanvitelli</a> and an <a href='https://www.developeracademy.unina.it'>Apple Developer Academy</a> Graduated!
 <br>I don't have a lot of open source project yet, but I'm working to change that!
 </div>
 <br>
