@@ -8,7 +8,7 @@
 </div>
 <br><br>
 <div width="100%" align="center">
-I'm a developer for <a href='https://humandataincome.com/'>HUDI</a>, a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'>Vanvitelli</a> and an <a href='https://www.developeracademy.unina.it'>Apple Developer Academy</a> Graduated!
+I'm a Frontend Software Engineer for <a href='https://humandataincome.com/'>HUDI</a>, a master's Degree Computer Engineering student at <a href='https://www.unicampania.it'>Vanvitelli</a> and an <a href='https://www.developeracademy.unina.it'>Apple Developer Academy</a> Graduated!
 <br>I don't have a lot of open source project yet, but I'm working to change that!
 </div>
 <br>
