@@ -12,7 +12,6 @@ I'm a Software Engineer for <a href='https://group.intesasanpaolo.com/it/careers
 <br>
 <br>
 
-
 <div width="100%" align="center">
 <h3>🧑🏻‍💻 Language and tools:</h3>
 <img align="" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/swift/swift.svg" alt="swift" height="42px"/>
