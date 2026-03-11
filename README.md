@@ -37,6 +37,5 @@ I'm a Software Engineer for <a href='https://group.intesasanpaolo.com/it/careers
 <img src="https://raw.githubusercontent.com/leobartowski/github-stats-transparent/output/generated/languages.svg"></img>
 </a>
 <br>
-stats and icons provided thanks to <a href='https://github.com/rahul-jha98'>rahul-jha98</a>
 </div>
 <br>
